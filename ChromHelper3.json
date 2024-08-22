@@ -1,0 +1,7 @@
+{
+    "latest": "1.1.0",
+    "1.1.0": {
+        "win32": "https://github.com/JulianFreeman/ChromHelper3/releases/download/v1.1.0/ChromHelper3-win64-v1.1.0.7z",
+        "darwin": "https://github.com/JulianFreeman/ChromHelper3/releases/download/v1.1.0/ChromHelper3-macos-v1.1.0.7z"
+    }
+}
