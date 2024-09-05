@@ -6,7 +6,7 @@
             "10": "https://github.com/JulianFreeman/ChromHelper3/releases/download/v1.3.0/ChromHelper3-macos10-v1.3.0.7z",
             "11": "https://github.com/JulianFreeman/ChromHelper3/releases/download/v1.3.0/ChromHelper3-macos-v1.3.0.7z"
         }
-    }
+    },
     "1.2.1": {
         "win32": "https://github.com/JulianFreeman/ChromHelper3/releases/download/v1.2.1/ChromHelper3-win64-v1.2.1.7z",
         "darwin": "https://github.com/JulianFreeman/ChromHelper3/releases/download/v1.2.1/ChromHelper3-macos-v1.2.1.7z"
