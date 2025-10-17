@@ -1,5 +1,12 @@
 {
-    "latest": "1.3.0",
+    "latest": "4.0.0",
+    "4.0.0": {
+        "win32": "https://github.com/JulianFreeman/ChromHelper.New/releases/download/v4.0.0/ChromHelper-win32-x64-v4.0.0.7z",
+        "darwin": {
+            "10": "https://github.com/JulianFreeman/ChromHelper.New/releases/download/v4.0.0/ChromHelper-macos-x64-v4.0.0.7z",
+            "11": "https://github.com/JulianFreeman/ChromHelper.New/releases/download/v4.0.0/ChromHelper-macos-x64-v4.0.0.7z"
+        }
+    },
     "1.3.0": {
         "win32": "https://github.com/JulianFreeman/ChromHelper3/releases/download/v1.3.0/ChromHelper3-win64-v1.3.0.7z",
         "darwin": {
